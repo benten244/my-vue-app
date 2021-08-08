@@ -5,7 +5,7 @@
       <div class="hello-wrold__message">
         {{ message }}
       </div>
-    </div>１１１１１１１
+    </div>
     <TodoList />
   </div>
 </template>
